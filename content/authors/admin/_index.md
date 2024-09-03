@@ -60,7 +60,7 @@ education:
       My PhD research focuses on designing novel graph neural networks for modeling industry-level dynamic networks, such as knowledge graphs, social networks, and financial networks. Thesis on *Deep graph learning based anomaly detection and dynamic relation modeling* (基于图深度学习的异常检测及动态关系建模). 
     button:
       text: 'Read Thesis'
-      url: 'uploads/thesis.pdf'
+      url: uploads/resume.pdf
   - area: BSc Electronices Engineering
     institution: Sichuan University
     date_start: 2013-09-01
@@ -69,16 +69,16 @@ education:
       GPA: 3.6/4.0
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Assistant Researcher
+    company_name: Shanghai Artificial Intelligence Laboratory
+    company_url: 'https://www.shlab.org.cn/'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2022-10-08
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Main Project:
+      - LLM Safety Evaluating System
+      - Large-scale LLM Agents System
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Backend Software Engineer
     company_name: X
@@ -130,12 +130,11 @@ skills:
         icon: camera
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
+    percent: 100
+  - name: English
     percent: 75
-  - name: Portuguese
-    percent: 25
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
