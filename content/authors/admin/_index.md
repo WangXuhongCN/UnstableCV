@@ -49,6 +49,7 @@ profiles:
 interests:
   - Graph Neural Network
   - Knowledge Mining
+  - Dynamic Graph Learning
 
 education:
   - area: PhD Artificial Intelligence
@@ -56,32 +57,17 @@ education:
     date_start: 2017-09-01
     date_end: 2022-09-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      My PhD research focuses on designing novel graph neural networks for modeling industry-level dynamic networks, such as knowledge graphs, social networks, and financial networks. Thesis on *Deep graph learning based anomaly detection and dynamic relation modeling* (基于图深度学习的异常检测及动态关系建模). 
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'uploads/thesis.pdf'
+  - area: BSc Electronices Engineering
+    institution: Sichuan University
+    date_start: 2013-09-01
+    date_end: 2017-06-30
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.6/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -105,6 +91,9 @@ work:
       - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
