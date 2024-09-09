@@ -60,7 +60,7 @@ education:
       My PhD research focuses on designing novel graph neural networks for modeling industry-level dynamic networks, such as knowledge graphs, social networks, and financial networks. Thesis on *Deep graph learning based anomaly detection and dynamic relation modeling* (基于图深度学习的异常检测及动态关系建模). 
     button:
       text: 'Read Thesis'
-      url: uploads/resume.pdf
+      url: uploads/thesis.pdf
   - area: BSc Electronices Engineering
     institution: Sichuan University
     date_start: 2013-09-01
@@ -170,4 +170,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xuhong Wang is an assistant researcher at the Shanghai Artificial Intelligence Laboratory. His research interests include graph neural network, knowledge graph and dynamic graph learning. 
