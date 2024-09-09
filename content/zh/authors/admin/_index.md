@@ -24,7 +24,7 @@ role: Assistant Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Shanghai Artificial Intelligence Laboratory
+  - name: 上海人工智能实验室
     url: https://www.shlab.org.cn/
 
 # Social network links
@@ -47,41 +47,41 @@ profiles:
     url: https://orcid.org/0000-0002-0944-8667
 
 interests:
-  - Graph Neural Network
-  - Knowledge Mining
-  - Dynamic Graph Learning
+  - 图神经网络
+  - 知识图谱
+  - 动态图学习
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Shanghai Jiao Tong University
+  - area: 博士 人工智能
+    institution: 上海交通大学
     date_start: 2017-09-01
     date_end: 2022-09-30
     summary: |
-      My PhD research focuses on designing novel graph neural networks for modeling industry-level dynamic networks, such as knowledge graphs, social networks, and financial networks. Thesis on *Deep graph learning based anomaly detection and dynamic relation modeling* (基于图深度学习的异常检测及动态关系建模). 
+      我的博士研究集中在设计新颖的图神经网络框架，用于建模行业级的动态网络，如知识图谱、社交网络和金融网络。论文题目为*基于图深度学习的异常检测及动态关系建模*。
     button:
       text: 'Read Thesis'
       url: uploads/thesis.pdf
-  - area: BSc Electronices Engineering
-    institution: Sichuan University
+  - area: 电子信息工程 本科
+    institution: 四川大学
     date_start: 2013-09-01
     date_end: 2017-06-30
     summary: |
       GPA: 3.6/4.0
 
 work:
-  - position: Assistant Researcher
-    company_name: Shanghai Artificial Intelligence Laboratory
+  - position: 青年研究员
+    company_name: 上海人工智能实验室
     company_url: 'https://www.shlab.org.cn/'
     company_logo: ''
     date_start: 2022-10-08
     date_end: ''
     summary: |2-
-      Main Project:
-      - LLM Safety Evaluating System
-      - Large-scale LLM Agents System
-      - Knowledge Graph Representation Learning
-  - position: Applied Scientist (Intern)
-    company_name: Amazon Web Services
+      主要项目：
+      - LLM 安全评估系统
+      - 大规模 LLM 智能体系统
+      - 知识图谱表示学习
+  - position: 应用科学家（实习生）
+    company_name: 亚马逊
     company_url: 'https://aws.amazon.com/cn/'
     company_logo: ''
     date_start: 2021-02-01
