@@ -79,18 +79,15 @@ work:
       Main Project:
       - LLM Safety Evaluating System
       - Large-scale LLM Agents System
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Knowledge Graph Representation Learning
+  - position: Applied Scientist (Intern)
+    company_name: Amazon Web Services
+    company_url: 'https://aws.amazon.com/cn/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-02-01
+    date_end: 2021-11-30
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      The team is responsible for maintaining Deep Graph Learning (DGL), the world's most widely used graph learning framework. I focused on improving models for dynamic graph neural network algorithms.
 
 
 
